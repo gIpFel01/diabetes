@@ -1,0 +1,14 @@
+	
+	* Analyse de la forme :
+
+-- Target value : Outcome
+-- Nombre de lignes et de colonnes : (768, 9)
+-- Types de variables : 8 var quantitatives et 1 var qualitatives 
+-- Identification des valeurs manquantes : La variable cabin est la var ayant le plus de valeurs manquantes avec un taux de 77% de var manquantes
+
+	* Analyse du fond
+
+-- Visualisation de la target : il y'a plus de diabétique que de non diabétique
+-- Visualisation de la target en fonction de l'age : les diabétique sont plus agés que les non diabétique
+-- Visualisation de la target en fonction du nombre de grossesse : la plupart des diabétiques ont eu au moins une grossesse
+-- Compréhension des différentes variables : 
